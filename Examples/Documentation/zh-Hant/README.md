@@ -1,5 +1,7 @@
 # KLCharts 示範 App
 
+> [English](../en/README.md) · [简体中文](../zh-Hans/README.md) · [繁體中文](../zh-Hant/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md)
+
 兩個範例都是獨立的 macOS SwiftUI App。它們各自包含 `Package.swift` 與 App 進入點，只依賴此儲存庫根目錄的 KLCharts 套件，並使用合成資料。
 
 ## Geometry Gallery

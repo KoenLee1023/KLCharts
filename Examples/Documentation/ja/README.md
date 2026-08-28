@@ -1,5 +1,7 @@
 # KLCharts デモアプリ
 
+> [English](../en/README.md) · [简体中文](../zh-Hans/README.md) · [繁體中文](../zh-Hant/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md)
+
 2 つのサンプルは、それぞれ独立した macOS 向け SwiftUI アプリです。個別の `Package.swift` とアプリのエントリポイントを持ち、このリポジトリのルートにある KLCharts パッケージだけに依存します。表示データはすべてサンプル用です。
 
 ## Geometry Gallery

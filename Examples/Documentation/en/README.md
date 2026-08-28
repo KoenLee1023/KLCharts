@@ -1,5 +1,7 @@
 # KLCharts Demo Apps
 
+> [English](../en/README.md) · [简体中文](../zh-Hans/README.md) · [繁體中文](../zh-Hant/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md)
+
 Both examples are independent macOS SwiftUI apps. Each has its own `Package.swift` and application entry point, depends only on the repository's root KLCharts package, and uses synthetic data.
 
 ## Geometry Gallery
